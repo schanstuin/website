@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on SchansTuin Leiden</title>
+    <link>http://schanstuinleiden.nl/portfolio/</link>
+    <description>Recent content in Portfolios on SchansTuin Leiden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://schanstuinleiden.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opening Zaterdag 1 Juli</title>
+      <link>http://schanstuinleiden.nl/portfolio/0_opening/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://schanstuinleiden.nl/portfolio/0_opening/</guid>
+      <description>Opening op 1 Juli om 11:00 !!
+SCHANSTUIN OPEN!
+Hoort zegt het voort!
+Met een bescheiden plechtigheid zal op zaterdag 1 juli om 11 uur wethouder Paul Laudy het beheer van de buurttuin overdragen aan het bestuur van wijkvereniging Cronenstein. De tuin is gelegen aan de Lammenschansweg naast firma Zirkzee.
+Door het planten van de eerste boom zal de wethouder een start maken voor het werk in de tuin. Hij zal de sleutel overhandigen van de materiaalkeet aan de werkgroep Schanstuin, waarmee het tuinieren kan beginnen.</description>
+    </item>
+    
+    <item>
+      <title>Flyer</title>
+      <link>http://schanstuinleiden.nl/portfolio/flyer/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://schanstuinleiden.nl/portfolio/flyer/</guid>
+      <description>Print hem uit of stuur hem door</description>
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>http://schanstuinleiden.nl/portfolio/map/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://schanstuinleiden.nl/portfolio/map/</guid>
+      <description>Hier staan we op de kaart</description>
+    </item>
+    
+    <item>
+      <title>tekeningen</title>
+      <link>http://schanstuinleiden.nl/portfolio/tekening/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://schanstuinleiden.nl/portfolio/tekening/</guid>
+      <description>Download hier de overzichts tekening</description>
+    </item>
+    
+  </channel>
+</rss>
