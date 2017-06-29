@@ -1,1 +1,1 @@
-ooo a website
+a website for our friends 
