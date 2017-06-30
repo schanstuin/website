@@ -9,7 +9,7 @@ weight = 10
 
 Opening op 1 Juli om 11:00 !
 
-SCHANSTUIN OPEN!
+SCHANSTUIN OPEN!!
 
 Hoort zegt het voort!
 
