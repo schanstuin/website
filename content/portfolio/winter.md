@@ -3,7 +3,7 @@ draft = false
 image = "img/winter.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Winter tijd"
-weight = 10
+weight = 1 
 +++
 
 Het beeld van de Schanstuin oogt winters. Dat klopt. Tot maart mag de natuur het zelf doen. Ik dank iedereen die sinds 1 juli heeft meegeholpen om van een dood stuk grond een levendige tuin te maken. Na alle regen helaas een waterballet met hier en daar een boerenkool.
